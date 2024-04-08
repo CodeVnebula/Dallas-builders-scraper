@@ -24,8 +24,8 @@ Optional data:
         Getting contact email would be needed to done manually.
 
 ## Saving Data
-Collected data is uploaded into DallasBuilders.csv
-[Download DallasBuilders.csv](https://github.com/CodeVnebula/Dallas-builders-scraper/blob/main/DallasBuilders.csv)
+Collected data is uploaded into
+[DallasBuilders.csv](https://github.com/CodeVnebula/Dallas-builders-scraper/blob/main/DallasBuilders.csv)
 
 ## Contributing
 
